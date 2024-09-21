@@ -1,7 +1,7 @@
 # imjongmin123
 
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=random&height=300&section=header&text=welcome^^&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=random&height=300&section=header&text=MY name is JONGMIN IM&fontSize=90)
 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
